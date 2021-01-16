@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/IT-World-ID/z-tools/main/img/Z-Tools-Menu.png" alt="Menu"/>
 </p>
-<p align="left">
 
 
 ## INSTALL ON TERMUX
