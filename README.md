@@ -8,7 +8,7 @@
 
 
 ## INSTALL ON TERMUX
-```
+```php
 $ pkg up
 $ pkg i ruby git ffmpeg tree zip unzip
 $ git clone https://github.com/IT-World-ID/z-tools
@@ -17,7 +17,7 @@ $ ruby main.rb
 ``` 
 
 ## INSTALL ON LINUX
-```
+```php
 $ sudo apt-get update
 $ sudo apt-get install git ffmpeg ruby tree zip unzip
 $ git clone https://github.com/IT-World-ID/z-tools
