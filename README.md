@@ -4,9 +4,7 @@
 <a href="#"><img title="Author by tegar ID" src="https://img.shields.io/badge/Author%20By-TEGAR%20ID-blue"></a> 
 <a href="#"><img title="Remake by Memet" src="https://img.shields.io/badge/Remake%20By-Memet-blue"></a> 
 
-<p align="center">
   <img src="https://raw.githubusercontent.com/IT-World-ID/z-tools/main/img/Z-Tools-Menu.png" alt="Menu"/>
-</p>
 
 
 ## INSTALL ON TERMUX
